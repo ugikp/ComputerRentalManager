@@ -1,19 +1,5 @@
 # Computer Rental Manager
-
-                                                                                                             ______                           
-______   _____                   _____                ____________          ______   _______           _____|\     \            _____         
-\     \  \    \             _____\    \_             /            \        |\     \  \      \         /     / |     |         /      |_       
- \    |  |    |            /     /|     |           |\___/\  \\___/|        \\     \  |     /|       |      |/     /|        /         \      
-  |   |  |    |           /     / /____/|            \|____\  \___|/         \|     |/     //        |      |\____/ |       |     /\    \     
-  |    \_/   /|          |     | |_____|/                  |  |               |     |_____//         |\     \    | /        |    |  |    \    
-  |\         \|          |     | |_________           __  /   / __            |     |\     \         | \     \___|/         |     \/      \   
-  | \         \__        |\     \|\        \         /  \/   /_/  |          /     /|\|     |        |  \     \             |\      /\     \  
-   \ \_____/\    \       | \_____\|    |\__/|       |____________/|         /_____/ |/_____/|         \  \_____\            | \_____\ \_____\ 
-    \ |    |/___/|       | |     /____/| | ||       |           | /        |     | / |    | |          \ |     |            | |     | |     | 
-     \|____|   | |        \|_____|     |\|_|/       |___________|/         |_____|/  |____|/            \|_____|             \|_____|\|_____| 
-           |___|/                |____/                                                                                                       
-
-
+# UGIKPA
 
 Computer Rental Manager adalah aplikasi desktop yang digunakan untuk mengelola penyewaan komputer. Proyek ini dikembangkan menggunakan Java dan JavaFX untuk memberikan antarmuka pengguna (GUI) yang interaktif. Aplikasi ini memungkinkan pengguna untuk menyewa, mengembalikan, dan menambah komputer dalam sistem penyewaan.
 
