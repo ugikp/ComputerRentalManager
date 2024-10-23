@@ -1,5 +1,5 @@
-# Computer Rental Manager
 # UGIKPA
+# Computer Rental Manager
 
 Computer Rental Manager adalah aplikasi desktop yang digunakan untuk mengelola penyewaan komputer. Proyek ini dikembangkan menggunakan Java dan JavaFX untuk memberikan antarmuka pengguna (GUI) yang interaktif. Aplikasi ini memungkinkan pengguna untuk menyewa, mengembalikan, dan menambah komputer dalam sistem penyewaan.
 
